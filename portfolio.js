@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Pratham Rajbhoj",
 	title: "Hey all, I'm Pratham Rajbhoj",
 	description:
-		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, RestFramework, Javascript, React.js, Next.js and a Competitive Programmer ",
+		"I'm passionate Full Stack web developer, a Competitive Programmer having an experience of web applications with Python, Django, RestFramework, Javascript, React.js, Next.js and many more... ",
 	resumeLink:
 		"https://drive.google.com/file/d/1qM6g9ImB3jQO9zCP3k-3OoqRbGK7y0vX/view?usp=share_link",
 };
