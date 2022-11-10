@@ -242,7 +242,7 @@ export const experience = [
 	{
 		role: "Backend Intern",
 		company: "Catalysing Dream and Beyond",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+		companylogo: "/img/icons/common/o1.jfif",
 		date: "Feb 2022 – Jul 2022 (6-months)",
 		desc: "I worked as backend web developer to design backend using Django, RestFramework some other libraries.",
 	},
@@ -259,23 +259,23 @@ export const Volunteerexperience = [
 	{
 		role: "Backend Lead",
 		company: "The CodeBreakers Club",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
-		date: "Feb 2022 – Jul 2022 (6-months)",
-		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.",
+		companylogo: "/img/icons/common/tcb.png",
+		date: "Aug 2021 – Present",
+		desc: "Worked as Backend web developer Lead to design club website and made DSA questions for CP Contest for club events hosted on CodeForces",
 	},
 	{
 		role: "Full Stack Developer",
 		company: "Geeks for Geeks Chapter",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
-		date: "Feb 2022 – Jul 2022 (6-months)",
-		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.",
+		companylogo: "/img/icons/common/gfg.jfif",
+		date: "Sept 2022 – Present",
+		desc: "Worked in Development of Club website and was a github repository maintainer for open source event 'Git-For-Geeks' and successfully merged 400+ PRs",
 	},
 	{
 		role: "CP Problem Setter",
 		company: "Codechef Rcoem Chapter",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
-		date: "Feb 2022 – Jul 2022 (6-months)",
-		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.",
+		companylogo: "/img/icons/common/codechefchapter.jfif",
+		date: "Sept 2021 – Sept 2022 (12-months)",
+		desc: "Contributed in hosting multiple CP Contests by developing questions based on Data Structures and Algorithms",
 	},
 ];
 
@@ -354,6 +354,16 @@ export const feedbacks = [
 		name: "Institute Rank #1 in BKP Coding Contest by GDSC RCOEM",
 		feedback:
 			"Lorem ipsum dolor sit amet consectetur,  fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+	},
+	{
+		name: "Social Summer Of Code - 2022",
+		feedback:
+			"Opensource Web Development Contributor",
+	},
+	{
+		name: "Social Winter Of Code - 2023",
+		feedback:
+			"Upcoming Opensource Web Development Contributor",
 	},
 ];
 
