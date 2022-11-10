@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Pratham Rajbhoj",
 	title: "Hi all, I'm Pratham Rajbhoj",
 	description:
-		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, RestFramework, Javascript, React.js, Next.js and a Competitive Programmer ",
 	resumeLink:
 		"https://drive.google.com/file/d/1qM6g9ImB3jQO9zCP3k-3OoqRbGK7y0vX/view?usp=share_link",
 };
@@ -16,10 +16,10 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	url: "https://1hanzla100.github.io/",
-	linkedin: "https://www.linkedin.com/in/1hanzla100/",
+	url: "",
+	linkedin: "https://www.linkedin.com/in/prathamesh-rajbhoj-2bb157200/",
 	github: "https://github.com/Pratham2301",
-	instagram: "https://www.instagram.com/__hanzla100",
+	instagram: "https://www.instagram.com/pratham_rajbhoj23",
 };
 
 export const skillsSection = {
@@ -32,12 +32,14 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
-				),
-				emoji("⚡ Building responsive static websites using Next.js"),
-				emoji(
 					"⚡ Building RESTful APIs in Django & Django REST Framework"
 				),
+				emoji(
+					"⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
+				),
+				emoji("⚡ Building responsive static websites using Next.js"
+				),
+				
 			],
 			softwareSkills: [
 				{
@@ -205,33 +207,33 @@ export const educationInfo = [
 		schoolName: "Shri Ramdeobaba College of Engineering and Management, Nagpur",
 		subHeader: "B.Tech in Computer Science",
 		duration: "2020 - 2024",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		desc: "",
 		grade: "9.31 CGPA",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			// "Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
+			// "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 		],
 	},
 	{
 		schoolName: "Yashoda Higher Secondary College, Nagpur",
 		subHeader: "Secondary - 12th",
 		duration: "2018 - 2020",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		desc: "",
 		grade: "85%",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			// "Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
+			// "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 		],
 	},
 	{
 		schoolName: "Prerna Public School, Nagpur",
 		subHeader: "Primary - 10th",
 		duration: "2016 - 2018",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		desc: "",
 		grade: "91%",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			// "Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
+			// "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 		],
 	},
 ];
@@ -242,7 +244,7 @@ export const experience = [
 		company: "Catalysing Dream and Beyond",
 		companylogo: "/img/icons/common/dusecaSoftware.jpg",
 		date: "Feb 2022 – Jul 2022 (6-months)",
-		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.",
+		desc: "I worked as backend web developer to design backend using Django, RestFramework some other libraries.",
 	},
 	// {
 	// 	role: "Frontend Developer",
@@ -281,43 +283,44 @@ export const projects = [
 	{
 		name: "CollegeWit",
 		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
-		github: "https://github.com/1hanzla100/developer-portfolio",
-		link: "https://developer-portfolio-1hanzla100.vercel.app/",
+		github: "https://github.com/RCOEM-Overflow/College_Wit_Website",
+		link: "https://collegewit.netlify.app/",
 	},
 	{
 		name: "URL-Shortner",
 		desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
-		github: "https://github.com/1hanzla100/Django-React-Marketplace",
+		github: "https://github.com/Pratham2301/url_shortner",
+		link: "https://pr-url.herokuapp.com/",
 	},
 	{
 		name: "Travel-with-Brains",
 		desc: "Get hands-on experience in technical skills with Technota",
-		github: "https://github.com/1hanzla100/django-react-forum",
+		github: "https://github.com/Pratham2301",
 	},
 	{
 		name: "Portfolio",
 		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		github: "https://github.com/1hanzla100/Django-ecommerce",
+		github: "https://github.com/Pratham2301",
 	},
 	{
 		name: "O1-Analysis",
 		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		github: "https://github.com/1hanzla100/Django-ecommerce",
+		github: "https://github.com/Pratham2301",
 	},
 	{
 		name: "Imagizer",
 		desc: "Get hands-on experience in technical skills with Technota",
-		github: "https://github.com/1hanzla100/django-react-forum",
+		github: "https://github.com/Pratham2301",	
 	},
 	{
 		name: "To-Do-List",
 		desc: "Get hands-on experience in technical skills with Technota",
-		github: "https://github.com/1hanzla100/django-react-forum",
+		github: "https://github.com/Pratham2301",	
 	},
 	{
 		name: "Github-Wrapper",
 		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		github: "https://github.com/1hanzla100/Django-ecommerce",
+		github: "https://github.com/Pratham2301",	
 	},
 ];
 
