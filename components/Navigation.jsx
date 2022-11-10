@@ -43,7 +43,7 @@ const Navigation = () => {
 							</h2>
 						</NavbarBrand>
 						<button
-							className="navbar-toggler"
+							className="navbar-toggler btn-md"
 							aria-label="navbar_toggle"
 							id="navbar_global"
 						>
@@ -58,13 +58,13 @@ const Navigation = () => {
 						>
 							<div className="navbar-collapse-header">
 								<Row>
-									<Col className="collapse-brand" xs="4">
-										<h3
+									<Col className="collapse-brand" xs="8">
+										<h6
 											className="text-black"
 											id="nav-title"
 										>
 											{greetings.name}
-										</h3>
+										</h6>
 									</Col>
 									<Col className="collapse-close" xs="6">
 										<button
