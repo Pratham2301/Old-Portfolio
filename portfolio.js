@@ -257,10 +257,17 @@ export const experience = [
 
 export const Volunteerexperience = [
 	{
+		role: "Vice President",
+		company: "The CodeBreakers Club",
+		companylogo: "/img/icons/common/tcb.png",
+		date: "Nov 2022 – Present",
+		desc: "Leading Club as a Vice President and working on development and expansion of The Code Breakers club",
+	},
+	{
 		role: "Backend Lead",
 		company: "The CodeBreakers Club",
 		companylogo: "/img/icons/common/tcb.png",
-		date: "Aug 2021 – Present",
+		date: "Aug 2021 – Oct 2022",
 		desc: "Worked as Backend web developer Lead to design club website and made DSA questions for CP Contest for club events hosted on CodeForces",
 	},
 	{
@@ -346,9 +353,19 @@ export const feedbacks = [
 			"Lorem ipsum dolor sit amet consectetur,  fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
 	},
 	{
+		name: "Google Machine Learning Bootcamp 2022",
+		feedback:
+			"I was a part of google ML Bootcamp where top 300 students from India were selected",
+	},
+	{
 		name: "Publicis Sapient Jumpstart 2022 Finalist",
 		feedback:
 			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+	},
+	{
+		name: "Auto-Coders 2022 Winner",
+		feedback:
+			"It was an Coding Competition organised by Government College of Engineering, Nagpur as a part of Synergy 2022",
 	},
 	{
 		name: "Institute Rank #1 in BKP Coding Contest by GDSC RCOEM",
