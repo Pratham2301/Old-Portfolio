@@ -33,12 +33,13 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Building RESTful APIs in Django & Django REST Framework"
+					"⚡ A Full Stack MERN + Django Web Developer"
 				),
 				emoji(
-					"⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
+					"⚡ Building RESTful APIs in Django & Node.js"
 				),
-				emoji("⚡ Building responsive static websites using Next.js"
+				emoji(
+					"⚡ Building responsive pages in React.js"
 				),
 				
 			],
@@ -56,14 +57,6 @@ export const skillsSection = {
 					fontAwesomeClassname: "logos:javascript",
 				},
 				{
-					skillName: "Reactjs",
-					fontAwesomeClassname: "vscode-icons:file-type-reactjs",
-				},
-				{
-					skillName: "Nextjs",
-					fontAwesomeClassname: "vscode-icons:file-type-light-next",
-				},
-				{
 					skillName: "Python",
 					fontAwesomeClassname: "logos:python",
 				},
@@ -71,7 +64,15 @@ export const skillsSection = {
 					skillName: "Django",
 					fontAwesomeClassname: "vscode-icons:file-type-django",
 				},
-
+				{
+					skillName: "Nodejs",
+					fontAwesomeClassname: "vscode-icons:file-type-node",
+				},
+				
+				{
+					skillName: "Reactjs",
+					fontAwesomeClassname: "vscode-icons:file-type-reactjs",
+				},
 				{
 					skillName: "Redux",
 					fontAwesomeClassname: "logos:redux",
@@ -81,14 +82,18 @@ export const skillsSection = {
 					fontAwesomeClassname: "logos:npm-icon",
 				},
 				{
-					skillName: "Yarn",
-					fontAwesomeClassname: "logos:yarn",
+					skillName: "Firebase",
+					fontAwesomeClassname: "vscode-icons:file-type-firebase",
+				},
+				{
+					skillName: "MongoDB",
+					fontAwesomeClassname: "vscode-icons:file-type-mongo",
 				},
 			],
 		},
 		// {
-		// 	title: "Cloud Infra-Architecture",
-		// 	lottieAnimationFile: "/lottie/skills/cloudinfra.json", // Path of Lottie Animation JSON File
+		// 	title: "Programming-Languages",
+		// 	lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
 		// 	skills: [
 		// 		emoji("⚡ Experience of working on multiple cloud platforms"),
 		// 		emoji(
