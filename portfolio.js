@@ -330,7 +330,7 @@ export const projects = [
 	},
 	{
 		name: "Imagizer",
-		desc: "It is one stop app that is used for Image Processing and Image Editing.The app has ability to change any image into its dense pencil sketches, colour pencil sketch, colour paints, cartoon image, water colour paints effect, etc. We have use Open CV and Numpy as dependencies that run the Package and you and freely contribute new pieces of code on Github",
+		desc: "It is one stop app that is used for Image Processing and Image Editing.The app has ability to change any image into its dense pencil sketches, colour pencil sketch, colour paints, cartoon image, water colour paints effect, etc.",
 		github: "https://github.com/Pratham2301/CG_Assignment",	
 		link: "https://pypi.org/project/py-imagizer/0.0.2/",	
 	},
