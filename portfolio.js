@@ -4,9 +4,9 @@ export const greetings = {
 	name: "Pratham Rajbhoj",
 	title: "Hey all, I'm Pratham Rajbhoj",
 	description:
-		"I'm passionate Full Stack web developer, a Competitive Programmer having an experience of web applications with Python, Django, RestFramework, Javascript, React.js, Next.js and many more... ",
+		"I'm passionate Full Stack web developer, a Competitive Programmer having an experience of web applications with Python, Django, Node.js, Express.js, RestFramework, Javascript, React.js and many more... ",
 	resumeLink:
-		"https://drive.google.com/file/d/1qM6g9ImB3jQO9zCP3k-3OoqRbGK7y0vX/view?usp=share_link",
+		"https://drive.google.com/file/d/1u0aipWTyA4e6ktAhH24tLlgSidWAJjI7/view?usp=share_link",
 };
 
 export const openSource = {
@@ -19,7 +19,8 @@ export const socialLinks = {
 	url: "",
 	linkedin: "https://www.linkedin.com/in/prathamesh-rajbhoj-2bb157200/",
 	github: "https://github.com/Pratham2301",
-	instagram: "https://www.instagram.com/pratham_rajbhoj23",
+	// instagram: "https://www.instagram.com/pratham_rajbhoj23",
+	email: "mailto:prathamrajbhoj2003@gmail.com",
 };
 
 export const skillsSection = {
@@ -208,7 +209,7 @@ export const educationInfo = [
 		subHeader: "B.Tech in Computer Science",
 		duration: "2020 - 2024",
 		desc: "",
-		grade: "9.31 CGPA",
+		grade: "9.36 CGPA",
 		descBullets: [
 			// "Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
 			// "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -289,45 +290,50 @@ export const Volunteerexperience = [
 export const projects = [
 	{
 		name: "CollegeWit",
-		desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
+		desc: "A user driven platform for resolving doubts of comuunity of students, where they can discuss anonymously. Currently having 150+ Users.",
 		github: "https://github.com/RCOEM-Overflow/College_Wit_Website",
 		link: "https://collegewit.netlify.app/",
 	},
 	{
 		name: "URL-Shortner",
-		desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
+		desc: "A Web-App which converts long URL into a short URL, and User gets analysis for each shortened Link",
 		github: "https://github.com/Pratham2301/url_shortner",
 		link: "https://pr-url.herokuapp.com/",
 	},
 	{
 		name: "Travel-with-Brains",
-		desc: "Get hands-on experience in technical skills with Technota",
-		github: "https://github.com/Pratham2301",
+		desc: "Designed and developed an application for senior citizens to help them fight Brain diseases by playing mind games. Users will enjoy Virtual World Tour, Meditation while playing 7+ mind games at each levels.",
+		github: "https://github.com/Pratham2301/Travel-with-brains",
+		link: "https://pratham2301.github.io/Travel-with-brains/",
 	},
 	{
 		name: "Portfolio",
-		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		github: "https://github.com/Pratham2301",
-	},
-	{
-		name: "O1-Analysis",
-		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		github: "https://github.com/Pratham2301",
-	},
-	{
-		name: "Imagizer",
-		desc: "Get hands-on experience in technical skills with Technota",
-		github: "https://github.com/Pratham2301",	
-	},
-	{
-		name: "To-Do-List",
-		desc: "Get hands-on experience in technical skills with Technota",
-		github: "https://github.com/Pratham2301",	
+		desc: "My Personal Portfolio to showcase my Skills, Experience and Projects",
+		github: "https://github.com/Pratham2301/My-Portfolio",
+		link: "https://pratham-rajbhoj.netlify.app/",
 	},
 	{
 		name: "Github-Wrapper",
-		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
-		github: "https://github.com/Pratham2301",	
+		desc: "A one stop place to stalk someone's Github Repositories and their activity",
+		github: "https://github.com/Pratham2301/github-wrapper-javascript",	
+	},
+	{
+		name: "Know Your Prep",
+		desc: "Contributed in development of this project during my Internship at Catalysing Dreams and Beyond",
+		github: "https://github.com/Pratham2301/o1analysis",
+		link: "https://devo1.netlify.app/",
+	},
+	{
+		name: "Imagizer",
+		desc: "It is one stop app that is used for Image Processing and Image Editing.The app has ability to change any image into its dense pencil sketches, colour pencil sketch, colour paints, cartoon image, water colour paints effect, etc. We have use Open CV and Numpy as dependencies that run the Package and you and freely contribute new pieces of code on Github",
+		github: "https://github.com/Pratham2301/CG_Assignment",	
+		link: "https://pypi.org/project/py-imagizer/0.0.2/",	
+	},
+	{
+		name: "Notes App",
+		desc: "A web application where you can keep records or take notes",
+		github: "https://github.com/Pratham2301/Notes-App",	
+		link: "https://pratham2301.github.io/Notes-App/",	
 	},
 ];
 
@@ -335,32 +341,32 @@ export const feedbacks = [
 	{
 		name: "Smart India Hackathon 2022 Finalist",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+			"My Team 'Bots With Brains' was selected for Finals of SIH-22. Top 3k students were selected out of 15L. Our Problem Statement was to Design a solution to help elderly citizens of India fight brain diseases by playing Mind-Games.",
 	},
 	{
-		name: "IIT Bombay Techfest-CoDecode 2022 Zonal Winner",
+		name: "Winner - IIT Bombay Techfest-CoDecode 2022",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur,  fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+			"It was a Mathematics based Competitive Programming Contest organized by Techfest IIT-Bombay",
 	},
 	{
 		name: "4 Star on Codechef",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+			"Rated 1850+ on Codechef, and solved 500+ Problems on the platform",
 	},
 	{
-		name: "Pupil on Codeforces",
+		name: "Pupil on Codeforces (1354+)",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur,  fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+		"Rated 1350 on Codechef, and solved 300+ Problems on the platform",
 	},
 	{
-		name: "Google Machine Learning Bootcamp 2022",
+		name: "Google ML Bootcamp",
 		feedback:
-			"I was a part of google ML Bootcamp where top 300 students from India were selected",
+			"Selected in Top 300 Indian Students for the Google Machine Learning Bootcamp",
 	},
 	{
 		name: "Publicis Sapient Jumpstart 2022 Finalist",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+			"Qualified for the Final Round of Programming Event Organized by Publicis Sapient in 2022",
 	},
 	{
 		name: "Auto-Coders 2022 Winner",
@@ -370,7 +376,7 @@ export const feedbacks = [
 	{
 		name: "Institute Rank #1 in BKP Coding Contest by GDSC RCOEM",
 		feedback:
-			"Lorem ipsum dolor sit amet consectetur,  fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.",
+		"It was an National Level Competitive Coding Competition held on Codechef, by GDSC RCOEM, Nagpur in 2022",
 	},
 	{
 		name: "Social Summer Of Code - 2022",
@@ -380,7 +386,7 @@ export const feedbacks = [
 	{
 		name: "Social Winter Of Code - 2023",
 		feedback:
-			"Upcoming Opensource Web Development Contributor",
+			"Opensource Web Development Contributor",
 	},
 ];
 
@@ -394,9 +400,11 @@ export const seoData = {
 	url: "",
 	keywords: [
 		"Pratham",
+		"Rajbhoj",
 		"Pratham Rajbhoj",
-		"@1hanzla100",
-		"1hanzla100",
+		"Pratham Rajbhoj RCOEM",
+		"Prathamesh",
+		"Prathamesh Rajbhoj",
 		"Portfolio",
 		"Pratham Portfolio ",
 		"Pratham Rajbhoj Portfolio",
